@@ -20,7 +20,7 @@ function App() {
 
       <div>
         <h1>This is App</h1>
-        <p>manjana</p>
+        <p>YKM Aloka. Hi how are you</p>
         <Greeting />
       </div>
 
