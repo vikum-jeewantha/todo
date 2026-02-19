@@ -19,7 +19,7 @@ function App() {
       </div>
 
       <div>
-        <h1>My React App</h1>
+        <h1>This is App</h1>
         <Greeting />
       </div>
 
